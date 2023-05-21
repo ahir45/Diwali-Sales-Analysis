@@ -1,7 +1,7 @@
-Diwali Sales Analysis Project
+#Diwali Sales Analysis Project
 This project focuses on analyzing sales data during the Diwali festival period. The dataset used in this analysis is stored in the 'Diwali Sales Data.csv' file. The project leverages Python programming along with key libraries such as NumPy, pandas, matplotlib, and seaborn for data manipulation, visualization, and analysis.
 
-Project Structure
+#Project Structure
 data/: This directory contains the dataset file 'Diwali Sales Data.csv'.
 notebooks/: This directory includes Jupyter notebooks used for data exploration and analysis.
 visualizations/: This directory contains visualizations generated during the analysis.
@@ -20,7 +20,7 @@ Product Category Analysis: Bar charts are used to explore the customer count and
 Top Products Analysis: Bar charts are created to visualize the top 10 most sold products based on the number of orders and total sales amount.
 Please refer to the Jupyter notebooks in the 'notebooks/' directory for detailed code and analysis.
 
-Instructions
+#Instructions
 Ensure that Python, along with the required libraries (NumPy, pandas, matplotlib, seaborn), is installed.
 Download the 'Diwali Sales Data.csv' dataset file and place it in the 'data/' directory.
 Open the Jupyter notebooks in the 'notebooks/' directory to run the code and explore the analysis.
